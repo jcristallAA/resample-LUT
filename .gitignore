@@ -1,0 +1,3 @@
+*.lut
+__pycache__/
+*.pyc
